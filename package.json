@@ -1,0 +1,35 @@
+{
+  "name": "cordova-plugin-geolocation",
+  "version": "0.3.12-dev",
+  "description": "Cordova Geolocation Plugin",
+  "cordova": {
+    "id": "cordova-plugin-geolocation",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/keyz182/cordova-plugin-geolocation"
+  },
+  "bugs": {
+    "url": "https://github.com/keyz182/cordova-plugin-geolocation"
+  },
+  "keywords": [
+    "cordova",
+    "geolocation",
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios"
+  ],
+  "author": "Apache Software Foundation",
+  "license": "Apache-2.0",
+  "engines": {
+    "cordovaDependencies": {
+      "3.0.0": {
+        "cordova": ">100"
+      }
+    }
+  }
+}
